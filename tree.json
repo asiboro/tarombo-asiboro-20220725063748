@@ -67,57 +67,11 @@
       ],
       "eventsFacts": [
         {
-          "tag": "SEX",
-          "value": "F",
-          "sourceCitations": [],
-          "media": [],
-          "mediaRefs": [],
-          "noteRefs": [],
-          "notes": []
-        },
-        {
-          "place": "Springfield",
-          "tag": "RESI",
-          "sourceCitations": [],
-          "media": [],
-          "mediaRefs": [],
-          "noteRefs": [],
-          "notes": []
-        },
-        {
-          "addr": {
-            "value": "Springfield High School"
-          },
-          "tag": "GRAD",
-          "sourceCitations": [],
-          "media": [],
-          "mediaRefs": [],
-          "noteRefs": [],
-          "notes": []
-        },
-        {
-          "tag": "OCCU",
-          "value": "Homemaker",
-          "sourceCitations": [],
-          "media": [],
-          "mediaRefs": [],
-          "noteRefs": [],
-          "notes": []
+          "tag": "_PRIV",
+          "value": ""
         }
       ],
-      "media": [
-        {
-          "_file": "Simpsons family.jpg",
-          "fileTag": "FILE",
-          "id": "O1",
-          "titl": "The Simpsons family"
-        },
-        {
-          "_file": "Marge Simpson.jpg",
-          "_prim": "Y",
-          "fileTag": "FILE"
-        }
-      ]
+      "media": []
     },
     {
       "fams": [

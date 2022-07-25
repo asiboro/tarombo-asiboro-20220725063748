@@ -244,8 +244,7 @@
       "id": "I5",
       "names": [
         {
-          "givn": "Margaret",
-          "value": "Maggie /Simpson/"
+          "value": "connector"
         }
       ],
       "eventsFacts": [
@@ -257,6 +256,10 @@
           "mediaRefs": [],
           "noteRefs": [],
           "notes": []
+        },
+        {
+          "tag": "_CONN",
+          "value": "asiboro/tarombo-asiboro-20220725223928"
         }
       ],
       "media": [
